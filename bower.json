@@ -1,0 +1,21 @@
+{
+  "name": "stuartwakefield2016-styles-avatar",
+  "authors": [
+    "Stuart Wakefield <me@stuartwakefield.co.uk>"
+  ],
+  "description": "The styling for avatars for Stuart Wakefield 2016 website.",
+  "main": "avatar.css",
+  "moduleType": [],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://stuartwakefield.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
